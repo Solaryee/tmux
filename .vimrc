@@ -11,7 +11,7 @@ set showcmd
 set cursorline
 set ignorecase
 set showmatch
-set number
+" set number
 set ruler
 
 " set noic
